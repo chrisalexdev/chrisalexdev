@@ -11,3 +11,4 @@ chrisalexdev/chrisalexdev is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 nahhh bro actually did not change default text 😭💀🙏🔥
+![](https://komarev.com/ghpvc/?username=chrisalexdev&label=great+visitors&style=pixel&color=84d6fe)
