@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 nahhh bro actually did not change default text 😭💀🙏🔥
 ![](https://komarev.com/ghpvc/?username=chrisalexdev&label=great+visitors&style=pixel&color=84d6fe)
+(<-- btw accessing chrisalex.sigma website requires the albatros network)
  <br><br>
-<p>👀 &nbsp;why r u here ?</p>
+<p><small>👀 &nbsp;why r yal here ?</small></p>
 <img align="left" src="https://profile-counter.glitch.me/chrisalexdev/count.svg" />
