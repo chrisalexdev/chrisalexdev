@@ -11,7 +11,7 @@ chrisalexdev/chrisalexdev is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 nahhh bro actually did not change default text 😭💀🙏🔥
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisalexdev&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisalexdev&layout=compact) -->
 <!-- <br> (<-- btw accessing chrisalex.sigma website requires the albatros network) -->
  <br><br>
 <p><small>👀 &nbsp;why r u here ?</small></p>
